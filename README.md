@@ -1,9 +1,11 @@
 # FUTURE_DS_01
-# 📊 Business Sales Performance Analytics  
+# 📊 Smart Sales Analysis Dashboard 
+
 ### Data Science & Analytics – Task 1 | Future Interns
 
 ## 📌 Project Overview
-This project is part of *Data Science & Analytics – Task 1 * conducted by *Future Interns*.  
+This project is part of Data Science & Analytics – Task 1 conducted by *Future Interns*.  
+
 The goal of this task is to analyze real-world business sales data and present meaningful insights that help organizations understand performance and growth opportunities.
 
 Instead of focusing only on charts, this project emphasizes *business thinking, KPI analysis, and insight-driven decision making*, similar to real analyst and consulting roles.
@@ -93,10 +95,10 @@ Average Order Value = [Total Revenue] / [Total Orders]
 ---
 
 ## 📁 Project Structure
-project1.pbix  
-PowerBI1.xlsx
-Sales_Dataset.csv  
-project1.pdf/  
+project1.pbix\
+PowerBI1.xlsx\
+archive(1).zip\
+project1.pdf\
 README.md  
 
 ---
